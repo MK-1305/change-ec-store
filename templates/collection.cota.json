@@ -1,0 +1,119 @@
+{
+  "sections": {
+    "rich_text_Nz9TQr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yj7aci": {
+          "type": "heading",
+          "settings": {
+            "heading": "訴求メッセージ",
+            "heading_size": "h1"
+          }
+        },
+        "text_YgjCzc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>どんな人に合う商品なのか<\/p>"
+          }
+        },
+        "button_hPJAb3": {
+          "type": "button",
+          "settings": {
+            "button_label": "noteで詳しく",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yj7aci",
+        "text_YgjCzc",
+        "button_hPJAb3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "image_with_text_JeidGG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_WTbC6Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "COTAの魅力",
+            "heading_size": "h2"
+          }
+        },
+        "text_JcnAJR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>選択した商品、コレクション、ブログ記事に注目を集めるため、テキストと画像を組み合わせます。可用性、スタイル、またはレビュー提供についての詳細を追加します。<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WTbC6Q",
+        "text_JcnAJR"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COTA_9ad7722b-2f08-402b-a987-2d1e4febc17b.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "rich_text_Nz9TQr",
+    "banner",
+    "image_with_text_JeidGG",
+    "product-grid"
+  ]
+}
