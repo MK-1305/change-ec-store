@@ -1,0 +1,483 @@
+{
+  "sections": {
+    "slideshow_RyBDVL": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_Gmq9qn": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DEMI_DO.jpg",
+            "heading": "DEMI DO",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "商品を見る　→",
+            "link": "shopify:\/\/collections\/demi-do",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_JbLpt6": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fv2.jpg",
+            "heading": "oggi otto",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "商品を見る",
+            "link": "shopify:\/\/collections\/oggi-otto",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_UJcHmd": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fv_e3ba9d7e-77d8-4182-ae3d-00bb6cb8c6b8.jpg",
+            "heading": "SQUTE",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "商品を見る",
+            "link": "shopify:\/\/collections\/squte",
+            "button_style_secondary": true,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Gmq9qn",
+        "slide_JbLpt6",
+        "slide_UJcHmd"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "ブランドについてのスライドショー"
+      }
+    },
+    "rich_text_drUHLk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4QCprh": {
+          "type": "heading",
+          "settings": {
+            "heading": "髪のお悩みで選ぶ",
+            "heading_size": "h1"
+          }
+        },
+        "text_qFA7Ew": {
+          "type": "text",
+          "settings": {
+            "text": "<p>あなたに合ったヘアケア用品が見つかる<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4QCprh",
+        "text_qFA7Ew"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 28
+      }
+    },
+    "multicolumn_nH8nG6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UgP7MA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stylist-cutting-long-hair.jpg",
+            "title": "悩み1",
+            "text": "<p>悩みの原因を簡潔に<\/p>",
+            "link_label": "詳しくはこちら",
+            "link": "shopify:\/\/pages\/悩み"
+          }
+        },
+        "column_B4FFAX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woman-getting-hair-cut-at-salon.jpg",
+            "title": "悩み2",
+            "text": "<p>悩みの原因を簡潔に<\/p>",
+            "link_label": "詳しくはこちら",
+            "link": "shopify:\/\/pages\/悩み"
+          }
+        },
+        "column_eykGMG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hair-stylist-combing-womans-hair.jpg",
+            "title": "悩み3",
+            "text": "<p>悩みの原因を簡潔に<\/p>",
+            "link_label": "詳しくはこちら",
+            "link": "shopify:\/\/pages\/悩み"
+          }
+        }
+      },
+      "block_order": [
+        "column_UgP7MA",
+        "column_B4FFAX",
+        "column_eykGMG"
+      ],
+      "settings": {
+        "title": "うねりにお悩みの方へ",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_LhpBqc": {
+      "type": "multirow",
+      "blocks": {
+        "row_jUK4Ty": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hands-trimming-long-hair.jpg",
+            "caption": "curl",
+            "heading": "うねり",
+            "text": "<p>髪のうねりに悩んでいる女性に向けてのメッセージ<\/p>",
+            "button_label": "おすすめ商品",
+            "button_link": "shopify:\/\/pages\/悩み"
+          }
+        },
+        "row_bTkfbq": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woman-getting-hair-cut-at-salon.jpg",
+            "caption": "damage",
+            "heading": "ダメージ",
+            "text": "<p>髪のダメージに悩んでいる女性に向けてのメッセージ<\/p>",
+            "button_label": "おすすめ商品",
+            "button_link": "shopify:\/\/pages\/悩み"
+          }
+        },
+        "row_CWYRVf": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hair-in-messy-bun.jpg",
+            "caption": "bounce",
+            "heading": "ハリ・コシ",
+            "text": "<p>髪のハリとコシに悩んでいる女性に向けてのメッセージ<\/p>",
+            "button_label": "おすすめ商品",
+            "button_link": "shopify:\/\/pages\/悩み"
+          }
+        }
+      },
+      "block_order": [
+        "row_jUK4Ty",
+        "row_bTkfbq",
+        "row_CWYRVf"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_hdjpg6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_NdDEaY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DEMI_DO.jpg",
+            "title": "DEMI DO",
+            "text": "",
+            "link_label": "商品を見る",
+            "link": "shopify:\/\/collections\/demi-do"
+          }
+        },
+        "column_WWbXp3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fv2.jpg",
+            "title": "oggi otto",
+            "text": "",
+            "link_label": "商品を見る",
+            "link": "shopify:\/\/collections\/oggi-otto"
+          }
+        },
+        "column_8zDHLX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fv_e3ba9d7e-77d8-4182-ae3d-00bb6cb8c6b8.jpg",
+            "title": "SQUTE",
+            "text": "",
+            "link_label": "商品を見る",
+            "link": "shopify:\/\/collections\/squte"
+          }
+        }
+      },
+      "block_order": [
+        "column_NdDEaY",
+        "column_WWbXp3",
+        "column_8zDHLX"
+      ],
+      "settings": {
+        "title": "取り扱いブランド",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_Q6mT9B": {
+      "type": "multirow",
+      "blocks": {
+        "row_4gGgTL": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DEMI_DO.jpg",
+            "caption": "デミドゥ",
+            "heading": "DEMI DO",
+            "text": "<p>どんな人に合う商品かを説明<\/p>",
+            "button_label": "商品を見る",
+            "button_link": "shopify:\/\/collections\/demi-do"
+          }
+        },
+        "row_QpXgM6": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fv2.jpg",
+            "caption": "オッジィオット",
+            "heading": "oggi otto",
+            "text": "<p>どんな人に合う商品かを説明<\/p>",
+            "button_label": "商品を見る",
+            "button_link": "shopify:\/\/collections\/oggi-otto"
+          }
+        },
+        "row_B8pXDq": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fv_e3ba9d7e-77d8-4182-ae3d-00bb6cb8c6b8.jpg",
+            "caption": "スクテ",
+            "heading": "SQUTE",
+            "text": "<p>どんな人に合う商品かを説明<\/p>",
+            "button_label": "商品を見る",
+            "button_link": "shopify:\/\/collections\/squte"
+          }
+        }
+      },
+      "block_order": [
+        "row_4gGgTL",
+        "row_QpXgM6",
+        "row_B8pXDq"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_dQKCUM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_n4YCmG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stylist-cutting-long-hair.jpg",
+            "title": "うねりの悩み",
+            "text": "",
+            "link_label": "おすすめ商品",
+            "link": "shopify:\/\/pages\/悩み"
+          }
+        },
+        "column_d9fegN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woman-getting-hair-cut-at-salon.jpg",
+            "title": "ダメージの悩み",
+            "text": "",
+            "link_label": "おすすめ商品",
+            "link": "shopify:\/\/pages\/悩み"
+          }
+        },
+        "column_JTzamP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hair-in-messy-bun.jpg",
+            "title": "ハリ・コシの悩み",
+            "text": "",
+            "link_label": "おすすめ商品",
+            "link": "shopify:\/\/pages\/悩み"
+          }
+        }
+      },
+      "block_order": [
+        "column_n4YCmG",
+        "column_d9fegN",
+        "column_JTzamP"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {border-bottom: 2px solid #000; display: inline-block; \/* テキストの幅に合わせる *\/ padding-bottom: 5px; \/* 下線とテキストの間隔を調整 *\/}",
+        "h3 {color: grey;}"
+      ],
+      "settings": {
+        "title": "悩みで選ぶ",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_kpd7aY": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_XnPVgK": {
+          "type": "heading",
+          "settings": {
+            "heading": "美容室Change",
+            "heading_size": "h2"
+          }
+        },
+        "text_EHHibD": {
+          "type": "text",
+          "settings": {
+            "text": "和歌山県和歌山市野崎200-10",
+            "text_style": "body"
+          }
+        },
+        "buttons_yrhdpE": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "ご予約はこちら",
+            "button_link_1": "https:\/\/beauty.hotpepper.jp\/slnH000597979\/",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XnPVgK",
+        "text_EHHibD",
+        "buttons_yrhdpE"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/fv.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_blog_Q7Jqfg": {
+      "type": "featured-blog",
+      "custom_css": [
+        ".article-card__excerpt {display: none;}"
+      ],
+      "settings": {
+        "heading": "Blog",
+        "heading_size": "h1",
+        "blog": "ブログ",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "pagefly-home": {
+      "type": "pagefly-home",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "slideshow_RyBDVL",
+    "rich_text_drUHLk",
+    "multicolumn_nH8nG6",
+    "multirow_LhpBqc",
+    "multicolumn_hdjpg6",
+    "multirow_Q6mT9B",
+    "multicolumn_dQKCUM",
+    "image_banner_kpd7aY",
+    "featured_blog_Q7Jqfg",
+    "pagefly-home"
+  ]
+}
